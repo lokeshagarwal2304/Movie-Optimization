@@ -38,6 +38,9 @@ This project improves movie search results using data science techniques like fi
 - 🔄 Apply filtering, corrections, and regression analysis.
 - 📊 Generate insights for better recommendations.
 
+## 🌐 Live Demo
+Check out the live version of the project here: [🎥 Movie Search App](https://v0-movie-search-app-xhsekn.vercel.app/)
+
 ## 🤝 Contribution
 Contributions are welcome! Fork the repository and submit pull requests.
 
@@ -45,5 +48,6 @@ Contributions are welcome! Fork the repository and submit pull requests.
 MIT License.
 
 ## 📧 Contact
-For questions or contributions, connect via GitHub: [lokeshagarwal2304](https://github.com/lokeshagarwal2304).
+For questions or contributions, connect via GitHub: [lokeshagarwal2304](https://github.com/lokeshagarwal2304),[gayatri192005](https://github.com/gayatri192005),[Shree Vallabh](https://github.com/vallabh-123
+).
 
