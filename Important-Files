@@ -1,0 +1,32 @@
+### 📁 **Main Project Files**
+| File/Folder | Description |
+|-------------|-------------|
+| `main.py` | 🧠 Main script to run the movie search logic (loading data, regression, visualization, etc.). |
+| `data/` | 📂 Folder containing datasets like `movies.csv`, `users.csv`, `ratings.csv`. |
+| `utils.py` | ⚙️ Utility functions for filtering, cleaning, or parsing data. |
+| `models/` | 📂 Folder for regression or ML models. For example: `regression_model.py`. |
+| `notebooks/` | 📓 Jupyter notebooks for experimentation and visualization. |
+| `plots/` | 🖼️ Folder to store generated visualizations. |
+
+---
+
+### 🧾 **Documentation Files**
+| File | Description |
+|------|-------------|
+| `README.md` | 📘 You already have this! Summarizes the project and guides users. |
+| `requirements.txt` | 📦 Lists all the Python dependencies. Use `pip freeze > requirements.txt` to generate. |
+| `LICENSE` | 🪪 MIT or any other open-source license. |
+| `.gitignore` | 🚫 Prevents pushing unwanted files like `__pycache__`, `.ipynb_checkpoints`, etc. |
+| `CONTRIBUTING.md` | ✍️ Guidelines for contributors. |
+| `CODE_OF_CONDUCT.md` | 🤝 Community rules and behavior expectations. |
+
+---
+
+### 🧪 **Optional but Useful**
+| File/Folder | Description |
+|-------------|-------------|
+| `tests/` | ✅ Unit tests for your utility functions and models. |
+| `config.py` | ⚙️ Central config for paths, constants, or toggles. |
+| `logs/` | 📂 Store log outputs for debugging and tracing behavior. |
+| `Dockerfile` | 🐳 For containerizing the app if deploying or running in environments. |
+| `.env` | 🔐 For environment variables like API keys, file paths, etc. (Never push this directly). |
